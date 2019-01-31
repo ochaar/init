@@ -1,1 +1,1 @@
-getent passwd (1000 .60000)
+getent passwd (1000..60000)
