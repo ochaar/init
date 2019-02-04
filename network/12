@@ -1,1 +1,1 @@
-ipconfig getpacket en0 | grep identifier
+ifconfig en0 | grep netmask

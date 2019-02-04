@@ -1,1 +1,1 @@
-dpkq-query -l
+dpkg --get-selections

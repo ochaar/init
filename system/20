@@ -1,1 +1,1 @@
-cat /etc/password
+cut -d: -f1 /etc/passwd

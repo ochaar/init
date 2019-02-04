@@ -1,7 +1,7 @@
-nslookup 10.51.1.81
-Server:         10.51.1.42
-Address:        10.51.1.42#53
+nslookup 10.11.8.8
+Server:10.51.1.42
+Address:10.51.1.42#53
 
-81.1.51.10.in-addr.arpa name = ldap-proxy.42.fr.
+8.8.11.10.in-addr.arpaname = e1r8p8.42.fr.
 
-nom du serveur: ldap
+c est l adresse de la place occupee
